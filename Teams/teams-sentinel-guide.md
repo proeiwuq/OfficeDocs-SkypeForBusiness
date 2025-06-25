@@ -42,7 +42,7 @@ Sentinel lets administrators do security management in one location. This includ
 - Microsoft Threat Protection
 - Microsoft 365 Workloads
 
-Sentinel workbooks and runbooks can make security monitoring *systematic*. A good first step in this process is collecting the logs needed analysis.
+Sentinel workbooks and runbooks can make security monitoring *systematic*. A good first step in this process is collecting the logs needed for analysis.
 
 > [!NOTE]
 > More than one Microsoft 365 subscription can be surfaced in the same instance of Microsoft Sentinel. This will allow for [realtime monitoring](/azure/sentinel/livestream) and hunting for threats in historical log files. Administrators will be able to hunt using [cross-resource queries](/azure/azure-monitor/log-query/cross-workspace-query), that is within a single resource group, across resource groups, or in another subscription.
